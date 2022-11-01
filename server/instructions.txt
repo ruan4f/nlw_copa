@@ -1,0 +1,8 @@
+To execute the migration Prisma. 
+=> npx prisma migrate dev
+
+To open the Prisma Studio
+=> npx prisma studio
+
+To generate the diagram from prisma database
+=> npx prisma generate
