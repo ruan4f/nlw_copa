@@ -6,3 +6,6 @@ To open the Prisma Studio
 
 To generate the diagram from prisma database
 => npx prisma generate
+
+To populate the database with seed data
+=> npx prisma db seed
