@@ -1,0 +1,2 @@
+To initialize the tailwind
+=> npx tailwindcss init -p
